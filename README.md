@@ -1,6 +1,7 @@
 # PCC104_TrabalhoFinal
 Trabalho final da disciplina PCC104 Projeto e Análise de Algoritmos - PPGCC/UFOP
 
+Discente: Isabelle Santos
 
 **Instruções**
 
